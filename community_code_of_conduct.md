@@ -19,10 +19,30 @@
 
  * Focusing on what is best for the community
 
+
+# Community Norms
+   - _Being kind to others_
+   - _Behaving professionally_
+   - _Using welcoming and inclusive language_
+   - _Being respectful of differing viewpoints and experiences_
+   - _Gracefully accepting constructive criticism_
+   - _Focusing on what is best for the community_
+   - _Showing empathy towards other community members_"
+   
 # Events
+* No drugs allowed.
+* No fights.
+* No disturb.
 
 # Online Spaces
-
+   - _Being kind to others_
+   - _Behaving professionally_
+   - _Using welcoming and inclusive language_
+   - _Being respectful of differing viewpoints and experiences_
+   - _Gracefully accepting constructive criticism_
+   - _Focusing on what is best for the community_
+   - _Showing empathy towards other community members_"
+   
 ## LGBTQ Safer Spaces Community Norms
 
  * No harassment.
@@ -36,11 +56,3 @@
  * No gratuitous or off-topic sexual images or behaviour in spaces where they're not appropriate
  * No offensive comments related to gender, gender identity and expression, sexual orientation, disability, mental illness, neuro(a)typicality, physical appearance, body size, age, race, national origin, ethnic origin, nationality, immigration status, language, religion or lack thereof, or other identity marker. This includes anti-Indigenous/Nativeness and anti-Blackness.
 
-# Community Norms
-   - _Being kind to others_
-   - _Behaving professionally_
-   - _Using welcoming and inclusive language_
-   - _Being respectful of differing viewpoints and experiences_
-   - _Gracefully accepting constructive criticism_
-   - _Focusing on what is best for the community_
-   - _Showing empathy towards other community members_"

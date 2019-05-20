@@ -33,15 +33,6 @@
 * No drugs allowed.
 * No fights.
 * No disturb.
-
-# Online Spaces
-   - _Being kind to others_
-   - _Behaving professionally_
-   - _Using welcoming and inclusive language_
-   - _Being respectful of differing viewpoints and experiences_
-   - _Gracefully accepting constructive criticism_
-   - _Focusing on what is best for the community_
-   - _Showing empathy towards other community members_"
    
 ## LGBTQ Safer Spaces Community Norms
 

@@ -3,6 +3,12 @@
 ## Creating a professional environment
 
  * Behaving professionally
+ 
+ * Do not interrupt talks
+
+ * Do not speak without asking permission
+
+ * Not to mention rude words
 
 ## Acknowledging The Human Experience
 
@@ -47,3 +53,10 @@
  * No gratuitous or off-topic sexual images or behaviour in spaces where they're not appropriate
  * No offensive comments related to gender, gender identity and expression, sexual orientation, disability, mental illness, neuro(a)typicality, physical appearance, body size, age, race, national origin, ethnic origin, nationality, immigration status, language, religion or lack thereof, or other identity marker. This includes anti-Indigenous/Nativeness and anti-Blackness.
 
+## HOW TO REPORT
+* You can send us a Direct Message https://www.facebook.com/DevHoodMX 
+* Contact us ceo@devhood.net
+
+## What if you don't meet the standards
+* You will get one advice depending on the action
+* If you have been previously warned, you will be banned from any upcoming event for at least one year.
